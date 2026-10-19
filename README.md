@@ -36,9 +36,12 @@ I care about writing code that is understandable, testable, and useful in the re
       <p><code>Python</code> <code>Suricata</code> <code>Networking</code> <code>Security</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 <a href="https://github.com/MaxSa2004/Blind_SQL_Injection_Demo">Blind SQL Injection Demo</a></h3>
-      <p>A practical security project demonstrating blind SQL injection concepts in a controlled environment.</p>
-      <p><code>Python</code> <code>Web Security</code> <code>SQL</code></p>
+      <h3>🎲 <a href="https://github.com/MaxSa2004/Tab_Tech-Web-Project">Tâb Game</a></h3>
+      <p>
+        A full-stack JavaScript board game with AI difficulty levels, online PvP,
+        authentication, leaderboards, statistics, and bilingual Portuguese/English support.
+      </p>
+      <p><code>JavaScript</code> <code>Node.js</code> <code>HTML</code> <code>CSS</code> <code>AI</code></p>
     </td>
   </tr>
   <tr>
@@ -48,12 +51,9 @@ I care about writing code that is understandable, testable, and useful in the re
       <p><code>HTML</code> <code>JavaScript</code> <code>Artificial Intelligence</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎲 <a href="https://github.com/MaxSa2004/Tab_Tech-Web-Project">Tâb Game</a></h3>
-      <p>
-        A full-stack JavaScript board game with AI difficulty levels, online PvP,
-        authentication, leaderboards, statistics, and bilingual Portuguese/English support.
-      </p>
-      <p><code>JavaScript</code> <code>Node.js</code> <code>HTML</code> <code>CSS</code> <code>AI</code></p>
+      <h3>🧪 <a href="https://github.com/MaxSa2004/Blind_SQL_Injection_Demo">Blind SQL Injection Demo</a></h3>
+      <p>A practical security project demonstrating blind SQL injection concepts in a controlled environment.</p>
+      <p><code>Python</code> <code>Web Security</code> <code>SQL</code></p>
     </td>
   </tr>
 </table>
