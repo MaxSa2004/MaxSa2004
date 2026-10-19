@@ -2,7 +2,7 @@
 
 # Hi, I'm Max 👋
 
-### Cybersecurity-focused software developer building practical, reliable systems
+### Cybersecurity-focused software developer building practical & reliable systems
 
 <p>
   <a href="https://github.com/MaxSa2004?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"></a>
@@ -17,7 +17,7 @@
 
 ## About me
 
-I’m a software developer with a growing focus on **cybersecurity, network defense, and intelligent applications**. I enjoy turning technical concepts into working systems — from intrusion detection and SQL injection demonstrations to networked applications, compilers, and game-playing AI.
+I’m a software developer with a growing focus on **cybersecurity, network defense, and intelligent applications**. I enjoy turning technical concepts into working systems - from intrusion detection and SQL injection demonstrations to networked applications, compilers, and game-playing AI.
 
 I care about writing code that is understandable, testable, and useful in the real world. I’m currently building my experience through hands-on projects and looking for opportunities where I can contribute, learn quickly, and solve meaningful engineering problems.
 
@@ -31,7 +31,7 @@ I care about writing code that is understandable, testable, and useful in the re
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/MaxSa2004/LookoutIDS">LookoutIDS</a></h3>
+      <h3>🛡️ <a href="https://github.com/MaxSa2004/LookoutIDS">LookoutIDS (Still in development)</a></h3>
       <p>Network intrusion detection using Suricata, custom Python detection logic, and real-time Discord alerts.</p>
       <p><code>Python</code> <code>Suricata</code> <code>Networking</code> <code>Security</code></p>
     </td>
@@ -48,9 +48,12 @@ I care about writing code that is understandable, testable, and useful in the re
       <p><code>HTML</code> <code>JavaScript</code> <code>Artificial Intelligence</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Networked applications</h3>
-      <p>Projects exploring client-server communication, concurrency, and practical networking concepts.</p>
-      <p><code>JavaScript</code> <code>Java</code> <code>Networks</code> <code>Concurrency</code></p>
+      <h3>🎲 <a href="https://github.com/MaxSa2004/Tab_Tech-Web-Project">Tâb Game</a></h3>
+      <p>
+        A full-stack JavaScript board game with AI difficulty levels, online PvP,
+        authentication, leaderboards, statistics, and bilingual Portuguese/English support.
+      </p>
+      <p><code>JavaScript</code> <code>Node.js</code> <code>HTML</code> <code>CSS</code> <code>AI</code></p>
     </td>
   </tr>
 </table>
@@ -64,6 +67,13 @@ I care about writing code that is understandable, testable, and useful in the re
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frameworks, runtimes & databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Security, systems & tools
 
@@ -95,4 +105,4 @@ I’m always happy to connect with people working in software engineering, cyber
   <a href="https://github.com/MaxSa2004"><img src="https://img.shields.io/badge/GitHub-MaxSa2004-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
 </div>
 
-<div align="center"><sub>Thanks for visiting — feel free to explore my repositories.</sub></div>
+<div align="center"><sub>Thanks for visiting - feel free to explore my repositories.</sub></div>
